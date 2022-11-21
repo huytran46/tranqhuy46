@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quoc Huy, you can call me Huy for 🩳</h1>
+<h1 align="center">Hi 👋, I'm Quoc Huy, you can call me Huy for short</h1>
 <h3 align="center">A dedicated, hard-working developer in my working time & A passionate, self-taught engineer in my free time.</h3>
 
 - 📫 How to reach me **tranquochuy4698@gmail.com**
